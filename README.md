@@ -17,7 +17,6 @@ Welcome to the repository for **Week 4** of our Java learning journey. This week
 - [Prerequisites](#prerequisites)
 - [How to Use This Repository](#how-to-use-this-repository)
 
----
 
 ## Overview
 
@@ -35,7 +34,6 @@ In Week 4, we explored **Java Generics**, the **Collections Framework** (includi
 - Bounded Parameters and Wildcards  
 - Practical Applications in Java  
 
----
 
 ### Day 2: Collections Framework
 
@@ -46,7 +44,6 @@ In Week 4, we explored **Java Generics**, the **Collections Framework** (includi
 - Comparing Different Collection Types  
 - Real-World Use Cases and Best Practices  
 
----
 
 ### Day 3: Java I/O Streams
 
@@ -57,7 +54,6 @@ In Week 4, we explored **Java Generics**, the **Collections Framework** (includi
 - I/O Best Practices  
 - Summary of Java I/O Concepts  
 
----
 
 ### Day 4: Exception Handling
 
@@ -69,7 +65,6 @@ In Week 4, we explored **Java Generics**, the **Collections Framework** (includi
 - Creating Custom Exceptions  
 - Best Practices in Exception Handling  
 
----
 
 ### Day 5: Regex and JUnit
 
@@ -81,7 +76,6 @@ In Week 4, we explored **Java Generics**, the **Collections Framework** (includi
 - Validating Email IDs using Regex  
 - Writing JUnit Test Cases  
 
----
 
 ### Day 6: Java 8 Features
 
@@ -94,7 +88,6 @@ In Week 4, we explored **Java Generics**, the **Collections Framework** (includi
 - Creating, Filtering, and Iterating Streams  
 - Understanding Anonymous Classes  
 
----
 
 ## Prerequisites
 
@@ -103,7 +96,6 @@ In Week 4, we explored **Java Generics**, the **Collections Framework** (includi
 - Java Development Kit (JDK) installed  
 - IDE or code editor such as IntelliJ IDEA, Eclipse, or VS Code  
 
----
 
 ## How to Use This Repository
 
