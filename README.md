@@ -2,7 +2,7 @@
 
 Welcome to the repository for **Week 4** of our Java learning journey. This week focused on mastering the **Java Collections Framework** and **Java 8 Streams**, enabling us to efficiently store, process, and transform data using modern Java features.
 
----
+
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Welcome to the repository for **Week 4** of our Java learning journey. This week
 
 In Week 4, we explored **Java Generics**, the **Collections Framework** (including Lists, Sets, Maps, and Queues), and Java I/O Streams. We also dove into **Exception Handling**, **Regular Expressions**, **JUnit Testing**, and **Java 8 Features** like Lambdas and Streams. Each topic builds upon the previous weeks, giving us a solid foundation in advanced Java programming.
 
----
+
 
 ## Topics Covered
 
